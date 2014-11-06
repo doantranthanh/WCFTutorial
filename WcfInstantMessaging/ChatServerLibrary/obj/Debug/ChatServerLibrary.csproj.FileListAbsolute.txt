@@ -1,0 +1,5 @@
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatServerLibrary\bin\Debug\ChatServerLibrary.dll.config
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatServerLibrary\bin\Debug\ChatServerLibrary.dll
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatServerLibrary\bin\Debug\ChatServerLibrary.pdb
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatServerLibrary\obj\Debug\ChatServerLibrary.dll
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatServerLibrary\obj\Debug\ChatServerLibrary.pdb
