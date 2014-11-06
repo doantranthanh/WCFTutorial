@@ -2,3 +2,4 @@ C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatClient\bin\Debug\ChatClient.ex
 C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatClient\bin\Debug\ChatClient.pdb
 C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatClient\obj\x86\Debug\ChatClient.exe
 C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatClient\bin\Debug\ChatClient.exe.config

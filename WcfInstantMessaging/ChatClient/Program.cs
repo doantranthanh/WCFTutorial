@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using ChatClient.ChatService;
 
 namespace ChatClient
 {
@@ -9,6 +10,10 @@ namespace ChatClient
     {
         static void Main(string[] args)
         {
+            using (ChatServiceClient chatProxy = new ChatServiceClient())
+            {
+                chatProxy.PostNote("Thanh Doan", "Hello WCF World");
+            }
         }
     }
 }
