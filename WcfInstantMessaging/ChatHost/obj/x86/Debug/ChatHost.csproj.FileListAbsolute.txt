@@ -1,0 +1,8 @@
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatHost\bin\Debug\ChatHost.exe.config
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatHost\bin\Debug\ChatHost.exe
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatHost\bin\Debug\ChatHost.pdb
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatHost\bin\Debug\ChatServerLibrary.dll
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatHost\bin\Debug\ChatServerLibrary.pdb
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatHost\obj\x86\Debug\ChatHost.csprojResolveAssemblyReference.cache
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatHost\obj\x86\Debug\ChatHost.exe
+C:\myprojects\WCFTutorial\WcfInstantMessaging\ChatHost\obj\x86\Debug\ChatHost.pdb
