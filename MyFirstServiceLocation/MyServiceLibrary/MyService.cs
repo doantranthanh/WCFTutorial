@@ -35,10 +35,7 @@ namespace MyServiceLibrary
             {
                 return obj4.Number1/obj4.Number2;
             }
-            else
-            {
-                return 0;
-            }
+            return 0;
         }
     }
 }

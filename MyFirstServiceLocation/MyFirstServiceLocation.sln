@@ -6,6 +6,7 @@ EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WCFTutorial_WebService", "..\..\WCFTutorial_WebService\", "{D0F366E0-D141-416C-8E82-66933DC4EA73}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{F9595D50-3A6A-43CA-A209-CCB7A2511DAE}|MyServiceLibrary.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/WCFTutorial_WebService"
 		Debug.AspNetCompiler.PhysicalPath = "..\..\WCFTutorial_WebService\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WCFTutorial_WebService\"
