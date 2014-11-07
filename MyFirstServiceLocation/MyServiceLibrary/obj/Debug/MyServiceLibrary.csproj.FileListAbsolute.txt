@@ -3,3 +3,4 @@ C:\myprojects\WCFTutorial\MyFirstServiceLocation\MyServiceLibrary\bin\Debug\MySe
 C:\myprojects\WCFTutorial\MyFirstServiceLocation\MyServiceLibrary\bin\Debug\MyServiceLibrary.pdb
 C:\myprojects\WCFTutorial\MyFirstServiceLocation\MyServiceLibrary\obj\Debug\MyServiceLibrary.dll
 C:\myprojects\WCFTutorial\MyFirstServiceLocation\MyServiceLibrary\obj\Debug\MyServiceLibrary.pdb
+C:\myprojects\WCFTutorial\MyFirstServiceLocation\MyServiceLibrary\obj\Debug\MyServiceLibrary.csprojResolveAssemblyReference.cache

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace MyServiceLibrary
 {
-    public class MyService: IMaths
+    public class MyService: IMath
     {
         public int Addition(Math obj1)
         {

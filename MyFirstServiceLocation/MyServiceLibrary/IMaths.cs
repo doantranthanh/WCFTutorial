@@ -7,7 +7,7 @@ using System.Text;
 namespace MyServiceLibrary
 {
     [ServiceContract]
-    public interface IMaths
+    public interface IMath
     {
         [OperationContract]
         int Addition(Math obj1);
