@@ -3,12 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyServiceLibrary", "MyServiceLibrary\MyServiceLibrary.csproj", "{F9595D50-3A6A-43CA-A209-CCB7A2511DAE}"
 EndProject
+
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WCFTutorial_WebService", "..\..\WCFTutorial_WebService\", "{D0F366E0-D141-416C-8E82-66933DC4EA73}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/WCFTutorial_WebService"
 		Debug.AspNetCompiler.PhysicalPath = "..\..\WCFTutorial_WebService\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WCFTutorial_WebService\"
+
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
@@ -16,11 +18,12 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WCFTutorial_WebService", ".
 		Release.AspNetCompiler.VirtualPath = "/WCFTutorial_WebService"
 		Release.AspNetCompiler.PhysicalPath = "..\..\WCFTutorial_WebService\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WCFTutorial_WebService\"
+
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "57931"
+		VWDPort = "56019"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -34,10 +37,17 @@ Global
 		{F9595D50-3A6A-43CA-A209-CCB7A2511DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9595D50-3A6A-43CA-A209-CCB7A2511DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9595D50-3A6A-43CA-A209-CCB7A2511DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{D0F366E0-D141-416C-8E82-66933DC4EA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D0F366E0-D141-416C-8E82-66933DC4EA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0F366E0-D141-416C-8E82-66933DC4EA73}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{D0F366E0-D141-416C-8E82-66933DC4EA73}.Release|Any CPU.Build.0 = Debug|Any CPU
+=======
+		{6DF1B113-1EF9-4F32-AB04-4BA65790792C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF1B113-1EF9-4F32-AB04-4BA65790792C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF1B113-1EF9-4F32-AB04-4BA65790792C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF1B113-1EF9-4F32-AB04-4BA65790792C}.Release|Any CPU.Build.0 = Debug|Any CPU
+>>>>>>> 8d710fd2384a6574e081d2bfe30a343820a0cd70
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
