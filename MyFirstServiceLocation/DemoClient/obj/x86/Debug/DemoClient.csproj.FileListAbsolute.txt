@@ -1,0 +1,5 @@
+C:\myprojects\WCFTutorial\MyFirstServiceLocation\DemoClient\bin\Debug\DemoClient.exe
+C:\myprojects\WCFTutorial\MyFirstServiceLocation\DemoClient\bin\Debug\DemoClient.pdb
+C:\myprojects\WCFTutorial\MyFirstServiceLocation\DemoClient\obj\x86\Debug\DemoClient.exe
+C:\myprojects\WCFTutorial\MyFirstServiceLocation\DemoClient\obj\x86\Debug\DemoClient.pdb
+C:\myprojects\WCFTutorial\MyFirstServiceLocation\DemoClient\bin\Debug\DemoClient.exe.config
