@@ -9,11 +9,12 @@ namespace DemoClient
     {
         static void Main(string[] args)
         {
-            localhost.MathServiceClient obj = new DemoClient.localhost.MathServiceClient();
-            localhost.Math mathObj = new DemoClient.localhost.Math();
-
-            mathObj.Number1 = 20;
-            mathObj.Number2 = 10;
+            localhost.MathServiceClient obj = new localhost.MathServiceClient();
+            localhost.Math mathObj = new localhost.Math
+                                     {
+                                         Number1 = 20,
+                                         Number2 = 10
+                                     };
 
             Console.WriteLine("Addition continues...");
             Console.WriteLine(obj.Addition(mathObj));
@@ -26,6 +27,10 @@ namespace DemoClient
 
             Console.WriteLine("Division continues...");
             Console.WriteLine(obj.Division(mathObj));
+
+            Console.WriteLine("Press to continues...");
+
+            Console.ReadLine();
         }
     }
 }
