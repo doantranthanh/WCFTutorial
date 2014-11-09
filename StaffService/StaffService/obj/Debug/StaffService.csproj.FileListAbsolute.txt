@@ -1,0 +1,5 @@
+C:\myprojects\EntityFrameworkTutorial\StaffService\StaffService\bin\Debug\StaffService.dll.config
+C:\myprojects\EntityFrameworkTutorial\StaffService\StaffService\bin\Debug\StaffService.dll
+C:\myprojects\EntityFrameworkTutorial\StaffService\StaffService\bin\Debug\StaffService.pdb
+C:\myprojects\EntityFrameworkTutorial\StaffService\StaffService\obj\Debug\StaffService.dll
+C:\myprojects\EntityFrameworkTutorial\StaffService\StaffService\obj\Debug\StaffService.pdb
