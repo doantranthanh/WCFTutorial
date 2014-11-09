@@ -1,8 +1,8 @@
-C:\myprojects\WCFTutorial\StaffService\StaffServiceHost\obj\x86\Debug\StaffServiceHost.csprojResolveAssemblyReference.cache
-C:\myprojects\WCFTutorial\StaffService\StaffServiceHost\bin\Debug\StaffServiceHost.exe.config
 C:\myprojects\WCFTutorial\StaffService\StaffServiceHost\bin\Debug\StaffServiceHost.exe
-C:\myprojects\WCFTutorial\StaffService\StaffServiceHost\bin\Debug\StaffServiceHost.pdb
 C:\myprojects\WCFTutorial\StaffService\StaffServiceHost\bin\Debug\StaffService.dll
 C:\myprojects\WCFTutorial\StaffService\StaffServiceHost\bin\Debug\StaffService.pdb
+C:\myprojects\WCFTutorial\StaffService\StaffServiceHost\obj\x86\Debug\StaffServiceHost.csprojResolveAssemblyReference.cache
 C:\myprojects\WCFTutorial\StaffService\StaffServiceHost\obj\x86\Debug\StaffServiceHost.exe
 C:\myprojects\WCFTutorial\StaffService\StaffServiceHost\obj\x86\Debug\StaffServiceHost.pdb
+C:\myprojects\WCFTutorial\StaffService\StaffServiceHost\bin\Debug\StaffServiceHost.exe.config
+C:\myprojects\WCFTutorial\StaffService\StaffServiceHost\bin\Debug\StaffServiceHost.pdb

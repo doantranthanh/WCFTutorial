@@ -49,16 +49,16 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\StaffService\StaffService.csproj">
-      <Project>{FBBE5C0F-AC86-43AD-BDBF-AF81CA330F26}</Project>
-      <Name>StaffService</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StaffService\StaffService.csproj">
+      <Project>{FBBE5C0F-AC86-43AD-BDBF-AF81CA330F26}</Project>
+      <Name>StaffService</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

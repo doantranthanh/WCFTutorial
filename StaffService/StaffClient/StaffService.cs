@@ -15,14 +15,17 @@
 public interface IStaffService
 {
     
+    [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IStaffService/CreateListStaff", ReplyAction="http://tempuri.org/IStaffService/CreateListStaffResponse")]
+    void CreateListStaff();
+    
     [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IStaffService/DisplayStaff", ReplyAction="http://tempuri.org/IStaffService/DisplayStaffResponse")]
     string DisplayStaff();
     
     [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IStaffService/GetBirthday", ReplyAction="http://tempuri.org/IStaffService/GetBirthdayResponse")]
     System.DateTime GetBirthday(int staffID);
     
-    [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IStaffService/CreateListStaff", ReplyAction="http://tempuri.org/IStaffService/CreateListStaffResponse")]
-    void CreateListStaff();
+    [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IStaffService/GetStaffName", ReplyAction="http://tempuri.org/IStaffService/GetStaffNameResponse")]
+    string GetStaffName(int staffID);
 }
 
 [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -59,6 +62,11 @@ public partial class StaffServiceClient : System.ServiceModel.ClientBase<IStaffS
     {
     }
     
+    public void CreateListStaff()
+    {
+        base.Channel.CreateListStaff();
+    }
+    
     public string DisplayStaff()
     {
         return base.Channel.DisplayStaff();
@@ -69,8 +77,8 @@ public partial class StaffServiceClient : System.ServiceModel.ClientBase<IStaffS
         return base.Channel.GetBirthday(staffID);
     }
     
-    public void CreateListStaff()
+    public string GetStaffName(int staffID)
     {
-        base.Channel.CreateListStaff();
+        return base.Channel.GetStaffName(staffID);
     }
 }

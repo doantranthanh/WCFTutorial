@@ -23,6 +23,14 @@ namespace StaffService
             return query.FirstOrDefault();
         }
 
+
+        public string GetStaffName(int staffID)
+        {
+            var query = ListStaff.Where(x => x.StaffID == staffID).Select(x => x.Name);
+
+            return query.FirstOrDefault();
+        }
+
         public void CreateListStaff()
         {
             Staff staff1 = new Staff

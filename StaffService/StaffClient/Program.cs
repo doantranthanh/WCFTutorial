@@ -14,9 +14,9 @@ namespace StaffClient
             {
                 sv.CreateListStaff();
                 Console.WriteLine(sv.DisplayStaff());
-                Console.WriteLine(sv.GetBirthday(1).ToShortDateString());
-                Console.WriteLine(sv.GetBirthday(2).ToShortDateString());
-                Console.WriteLine(sv.GetBirthday(3).ToShortDateString());
+                Console.WriteLine(sv.GetStaffName(1) + "-" + sv.GetBirthday(1).ToShortDateString());
+                Console.WriteLine(sv.GetStaffName(2) + "-" + sv.GetBirthday(2).ToShortDateString());
+                Console.WriteLine(sv.GetStaffName(3) + "-" + sv.GetBirthday(3).ToShortDateString());
 
                 Console.ReadLine();
             }

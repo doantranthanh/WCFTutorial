@@ -11,13 +11,16 @@ namespace StaffService
     public interface IStaffService
     {
         [OperationContract]
+        void CreateListStaff();
+
+        [OperationContract]
         string DisplayStaff();
 
         [OperationContract]
         DateTime GetBirthday(int staffID);
 
         [OperationContract]
-        void CreateListStaff();
+        string GetStaffName(int staffID);
 
     }
 
