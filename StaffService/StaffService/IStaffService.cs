@@ -16,6 +16,9 @@ namespace StaffService
         [OperationContract]
         DateTime GetBirthday(int staffID);
 
+        [OperationContract]
+        void CreateListStaff();
+
     }
 
 }

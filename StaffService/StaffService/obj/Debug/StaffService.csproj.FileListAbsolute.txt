@@ -3,3 +3,8 @@ C:\myprojects\EntityFrameworkTutorial\StaffService\StaffService\bin\Debug\StaffS
 C:\myprojects\EntityFrameworkTutorial\StaffService\StaffService\bin\Debug\StaffService.pdb
 C:\myprojects\EntityFrameworkTutorial\StaffService\StaffService\obj\Debug\StaffService.dll
 C:\myprojects\EntityFrameworkTutorial\StaffService\StaffService\obj\Debug\StaffService.pdb
+C:\myprojects\WCFTutorial\StaffService\StaffService\bin\Debug\StaffService.dll.config
+C:\myprojects\WCFTutorial\StaffService\StaffService\bin\Debug\StaffService.dll
+C:\myprojects\WCFTutorial\StaffService\StaffService\bin\Debug\StaffService.pdb
+C:\myprojects\WCFTutorial\StaffService\StaffService\obj\Debug\StaffService.dll
+C:\myprojects\WCFTutorial\StaffService\StaffService\obj\Debug\StaffService.pdb
