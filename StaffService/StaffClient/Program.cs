@@ -18,7 +18,7 @@ namespace StaffClient
                 Console.WriteLine(sv.GetStaffName(2) + "-" + sv.GetBirthday(2).ToShortDateString());
                 Console.WriteLine(sv.GetStaffName(3) + "-" + sv.GetBirthday(3).ToShortDateString());
 
-                Console.ReadLine();
+                Console.ReadKey();
             }
         }
     }
