@@ -42,7 +42,7 @@ namespace StaffService
             Staff staff3 = new Staff
                             {
                                 StaffID = 3,
-                                Name = "David",
+                                Name = "Peter",
                                 Birthday = new DateTime(1984, 09, 25)
                             };
 
