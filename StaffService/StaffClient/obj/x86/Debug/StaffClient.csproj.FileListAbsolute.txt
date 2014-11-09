@@ -1,0 +1,6 @@
+C:\myprojects\WCFTutorial\StaffService\StaffClient\bin\Debug\StaffClient.exe.config
+C:\myprojects\WCFTutorial\StaffService\StaffClient\bin\Debug\StaffClient.exe
+C:\myprojects\WCFTutorial\StaffService\StaffClient\bin\Debug\StaffClient.pdb
+C:\myprojects\WCFTutorial\StaffService\StaffClient\obj\x86\Debug\StaffClient.exe
+C:\myprojects\WCFTutorial\StaffService\StaffClient\obj\x86\Debug\StaffClient.pdb
+C:\myprojects\WCFTutorial\StaffService\StaffClient\obj\x86\Debug\StaffClient.csprojResolveAssemblyReference.cache
