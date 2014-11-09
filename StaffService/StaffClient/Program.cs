@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Data.Common;
 using System.Linq;
 using System.Text;
-using StaffClient.ServiceReference1;
 
 namespace StaffClient
 {
@@ -11,16 +10,15 @@ namespace StaffClient
     {
         static void Main(string[] args)
         {
-            using (StaffServiceClient sh = new StaffServiceClient())
+            using (StaffServiceClient sv = new StaffServiceClient())
             {
-                sh.Open();
-                sh.CreateListStaff();
-                Console.WriteLine(sh.DisplayStaff());
-                Console.WriteLine(sh.GetBirthday(1).ToShortDateString());
-                Console.WriteLine(sh.GetBirthday(2).ToShortDateString());
-                Console.WriteLine(sh.GetBirthday(3).ToShortDateString());
+                sv.CreateListStaff();
+                Console.WriteLine(sv.DisplayStaff());
+                Console.WriteLine(sv.GetBirthday(1).ToShortDateString());
+                Console.WriteLine(sv.GetBirthday(2).ToShortDateString());
+                Console.WriteLine(sv.GetBirthday(3).ToShortDateString());
 
-                Console.ReadKey();
+                Console.ReadLine();
             }
         }
     }

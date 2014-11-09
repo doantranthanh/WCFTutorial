@@ -8,7 +8,7 @@ namespace StaffServiceHost
     {
         static void Main(string[] args)
         {
-            using (ServiceHost sh = new ServiceHost(typeof(Staff)))
+            using (ServiceHost sh = new ServiceHost(typeof(StaffService.StaffService)))
             {
                 sh.Open();
                 Console.WriteLine("Staff Service opened successfully");
